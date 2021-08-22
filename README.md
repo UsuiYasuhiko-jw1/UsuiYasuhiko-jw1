@@ -1,5 +1,2 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=UsuiYasuhiko-jw1)
-
-<a href="https://github.com/UsuiYasuhiko-jw1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UsuiYasuhiko-jw1&count_private=true&show_icons=true"/>
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=UsuiYasuhiko-jw1&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsuiYasuhiko-jw1&theme=tokyonight&layout=compact)
